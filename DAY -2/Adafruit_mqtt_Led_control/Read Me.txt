@@ -1,0 +1,29 @@
+/***************************************************
+        Adafruit MQTT LED Control Example
+                  #TEAM PI BOTS
+               FOLLOW AND SUPPORT
+                    @pi_bots
+
+         CONTACT FOR TECHNICAL ASSISTANCE
+                 Instagram.com
+           -------------------------
+            >>  @at_mega_328p
+            >>  @tech.xplorer
+            >>  @__the_limitless__
+ ****************************************************/
+
+>> LED Connections
+   ------------------
+	* DHT11  +  to  5V
+	* DHT11 Out to  D4 (GPIO2)
+
+>> Adafruit.io Configuration
+   -------------------------
+	* Create a Feed "onoff" For LED control
+	* Creat a Button Widget on onoff Feed
+
+\******************************************************/
+
+		      THANK YOU
+
+\******************************************************/

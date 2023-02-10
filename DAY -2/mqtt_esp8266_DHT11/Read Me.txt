@@ -1,0 +1,30 @@
+/***************************************************
+     Adafruit MQTT Sensor Data Reading Example
+                  #TEAM PI BOTS
+               FOLLOW AND SUPPORT
+                    @pi_bots
+
+         CONTACT FOR TECHNICAL ASSISTANCE
+                 Instagram.com
+           -------------------------
+            >>  @at_mega_328p
+            >>  @tech.xplorer
+            >>  @__the_limitless__
+ ****************************************************/
+
+>> Sensor Connections
+   ------------------
+	* DHT11  +  to  5V
+	* DHT11 Out to  D4 (GPIO2)
+	* DHT11  -  to  GND
+>> Adafruit.io Configuration
+   -------------------------
+	* Create a Feed "temperature" For Temperature Data
+	* Create a Feed "humidity" For Humidity Data
+	* You can either create a text field or a Guage for showing both Values
+
+\*********************************************************************************/
+
+				    THANK YOU
+
+\*********************************************************************************/
